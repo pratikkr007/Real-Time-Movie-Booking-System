@@ -1,0 +1,7 @@
+Authorization token=
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhN2FkMTllMWY1MDA3YTcwYjgzNjliNCIsImlhdCI6MTc4NjQzNTM1MywiZXhwIjoxNzg3MDQwMTUzfQ.kdGXfvrG5Wn2hLS8E2NvVXUcoR2G5xYsHfG9uPz9f6w
+
+test movie id = 6a7ad8597cb0bb08e7ea8a07
+test theatre id = 6a7adfaa7172742e48a01b4d
+test show id = 6a7ae0607172742e48a01b53
+test book id = 6a7ae2d9eb5932b365c70183
